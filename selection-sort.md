@@ -19,7 +19,9 @@ SELECTION-SORT(A)
 A[1..i] is sorted in ascending order
 
 INITIALIZATION: Single element in subarray and thus sorted
+
 MAINTENANCE: If A[i+1] > A[i] they will be swapped before next iteration of outer loop
+
 TERMINATION: A[i+1] is implicitly sorted as it was swapped if needed in final inner loop.
 
 # Big-O
