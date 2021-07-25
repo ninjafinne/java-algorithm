@@ -1,4 +1,4 @@
-#Scope
+# Scope
 input: Array A[a1,a2,...,an]
 
 output: Array A sorted in ascending order.
